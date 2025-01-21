@@ -1,0 +1,17 @@
+
+{
+  "name": "USDT （Tether）",
+  "symbol": "USDT",
+  "description": "USDT （Tether）",
+  "image": "https://github.com/cryptobossking/zztoken/blob/main/66666.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/cryptobossking/zztoken/blob/main/66666.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
